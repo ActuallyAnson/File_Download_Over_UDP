@@ -74,3 +74,9 @@
 * Performance: Tested 100MB in ~2s with simulation of packet loss (approx. 50.00 MB/s, varies by network).
 * Performance: Tested 400MB in ~4s without simulation of packet loss (approx. 100.00 MB/s, varies by network).
 
+License
+This project is licensed under the MIT License.
+
+Acknowledgements
+Members that worked on this project: Anson, Jeremy, Ridhwan
+
